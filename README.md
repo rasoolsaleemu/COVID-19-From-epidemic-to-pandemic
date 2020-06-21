@@ -10,3 +10,8 @@ In this notebook, you will visualize COVID-19 data from the first several weeks 
 
 Please note that information and data regarding COVID-19 is frequently being updated. The data used in this project was pulled on March 17, 2020, and should not be considered to be the most up to date data available.
 
+                                                        Installation
+                                                      --------------
+                                              1. Download this whole repository
+                                              2. Open the "notebook.ipynb" on a Jupyter notebook
+                                              3. Enjoy the dataLab!
