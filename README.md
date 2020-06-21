@@ -13,5 +13,5 @@ Please note that information and data regarding COVID-19 is frequently being upd
                                                         Installation
                                                       --------------
                                               1. Download this whole repository
-                                              2. Open the "notebook.ipynb" on a Jupyter notebook
+                                              2. Open the "notebook.ipynb" on a Jupyter Notebook/RStudio
                                               3. Enjoy the dataLab!
